@@ -1,2 +1,0 @@
-# Harp
-Harp test
